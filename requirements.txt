@@ -1,0 +1,4 @@
+--extra-index-url http://hiscgems.cloudapp.net:8080/simple/
+--trusted-host hiscgems.cloudapp.net
+
+dc_applicant_stack_client_sdk
