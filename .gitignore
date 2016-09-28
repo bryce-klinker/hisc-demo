@@ -1,4 +1,4 @@
 ENV/
-applicantstack.cfg
+*.cfg
 *.txt
 
