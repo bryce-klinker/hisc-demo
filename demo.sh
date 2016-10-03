@@ -1,5 +1,7 @@
 #!/bin/bash
 
+~/.pyenv/versions/3.5.1/bin/pyvenv ENV
+
 source ENV/bin/activate
 
 pip install -r requirements.txt --upgrade
